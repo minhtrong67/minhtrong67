@@ -1,0 +1,29 @@
+{
+    "username": "minhtrong67",
+    "layout": "default",
+    "theme": "elden_ring",
+    "title": "auto",
+    "activity": "arise",
+    "icons": "brand",
+    "motion": "full",
+    "timezone": "Asia/Saigon",
+    "arsenal": [
+        "react",
+        "tailwindcss",
+        "tauri",
+        "dotnet",
+        "javascript",
+        "typescript",
+        "python",
+        "cplusplus",
+        "c",
+        "rust",
+        "dart",
+        "android",
+        "flutter",
+        "postgresql",
+        "mysql",
+        "sqlite",
+        "mongodb"
+    ]
+}
