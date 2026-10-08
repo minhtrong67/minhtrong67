@@ -48,7 +48,22 @@
       "percentile": 0.6689367771328458
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "kind": "achievement",
+      "subject": "boss-slayer",
+      "from": "0",
+      "to": "1",
+      "at": "2026-10-08T22:03:21.367Z"
+    },
+    {
+      "kind": "achievement",
+      "subject": "collector",
+      "from": "0",
+      "to": "1",
+      "at": "2026-10-08T22:03:21.367Z"
+    }
+  ],
   "achievements": [
     {
       "id": "pull-shark",
@@ -158,12 +173,12 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 3
+      "value": 5
     },
     {
       "id": "boss-slayer",
-      "tier": 0,
-      "value": 0
+      "tier": 1,
+      "value": 1
     },
     {
       "id": "escape-artist",
@@ -172,12 +187,17 @@
     },
     {
       "id": "collector",
-      "tier": 0,
-      "value": 3
+      "tier": 1,
+      "value": 4
     }
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-08",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-10-07",
         "cleared": 3,
@@ -185,16 +205,19 @@
       }
     ],
     "perfectDays": 1,
-    "run": 1,
+    "run": 0,
     "bestRun": 1,
-    "questsDone": 3,
-    "bosses": [],
+    "questsDone": 5,
+    "bosses": [
+      "2026-10-05"
+    ],
     "escapes": 0,
     "kinds": [
       "contribute",
       "streak",
-      "commit"
+      "commit",
+      "mp"
     ]
   },
-  "syncedAt": "2026-10-08T10:20:19.089Z"
+  "syncedAt": "2026-10-08T22:03:21.367Z"
 }
