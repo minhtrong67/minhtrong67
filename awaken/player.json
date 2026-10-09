@@ -1,8 +1,8 @@
 {
   "login": "minhtrong67",
-  "level": 3,
-  "overall": "C",
-  "overallPercentile": 0.6816254250592251,
+  "level": 4,
+  "overall": "A",
+  "overallPercentile": 0.8895977367308183,
   "layout": "default",
   "class": {
     "name": "Blade Master",
@@ -13,27 +13,27 @@
   "stats": [
     {
       "code": "STR",
-      "value": 17,
+      "value": 24,
       "rank": "E",
-      "percentile": 0.26985879548522873
+      "percentile": 0.3386287042337096
     },
     {
       "code": "AGI",
-      "value": 0,
-      "rank": "E",
-      "percentile": 0
+      "value": 4,
+      "rank": "C",
+      "percentile": 0.7264678925031302
     },
     {
       "code": "INT",
-      "value": 0,
-      "rank": "E",
-      "percentile": 0
+      "value": 1,
+      "rank": "B",
+      "percentile": 0.7872854778967882
     },
     {
       "code": "VIT",
-      "value": 7,
-      "rank": "B",
-      "percentile": 0.8495905783669857
+      "value": 8,
+      "rank": "A",
+      "percentile": 0.8870569955105061
     },
     {
       "code": "LUK",
@@ -50,45 +50,87 @@
   ],
   "events": [
     {
-      "kind": "achievement",
-      "subject": "boss-slayer",
-      "from": "0",
-      "to": "1",
-      "at": "2026-10-08T22:03:21.367Z"
+      "kind": "level",
+      "subject": "Level",
+      "from": "3",
+      "to": "4",
+      "at": "2026-10-09T21:39:59.323Z"
+    },
+    {
+      "kind": "overall",
+      "subject": "Overall rank",
+      "from": "C",
+      "to": "A",
+      "at": "2026-10-09T21:39:59.323Z"
+    },
+    {
+      "kind": "stat",
+      "subject": "AGI",
+      "from": "E",
+      "to": "C",
+      "at": "2026-10-09T21:39:59.323Z"
+    },
+    {
+      "kind": "stat",
+      "subject": "INT",
+      "from": "E",
+      "to": "B",
+      "at": "2026-10-09T21:39:59.323Z"
+    },
+    {
+      "kind": "stat",
+      "subject": "VIT",
+      "from": "B",
+      "to": "A",
+      "at": "2026-10-09T21:39:59.323Z"
     },
     {
       "kind": "achievement",
-      "subject": "collector",
+      "subject": "pull-shark",
       "from": "0",
       "to": "1",
-      "at": "2026-10-08T22:03:21.367Z"
+      "at": "2026-10-09T21:39:59.323Z"
+    },
+    {
+      "kind": "achievement",
+      "subject": "quickdraw",
+      "from": "0",
+      "to": "2",
+      "at": "2026-10-09T21:39:59.323Z"
+    },
+    {
+      "kind": "achievement",
+      "subject": "yolo",
+      "from": "0",
+      "to": "1",
+      "at": "2026-10-09T21:39:59.323Z"
     }
   ],
   "achievements": [
     {
       "id": "pull-shark",
-      "tier": 0,
-      "value": 0
+      "tier": 1,
+      "value": 4
     },
     {
       "id": "quickdraw",
-      "tier": 0,
-      "value": 0
+      "tier": 2,
+      "value": 5
     },
     {
       "id": "yolo",
-      "tier": 0,
-      "value": 0
+      "tier": 1,
+      "value": 4
     },
     {
       "id": "relentless",
       "tier": 0,
-      "value": 17
+      "value": 24
     },
     {
       "id": "unbroken",
       "tier": 0,
-      "value": 4
+      "value": 5
     },
     {
       "id": "night-owl",
@@ -108,7 +150,7 @@
     {
       "id": "gate-opener",
       "tier": 1,
-      "value": 7
+      "value": 8
     },
     {
       "id": "raider",
@@ -152,18 +194,18 @@
     },
     {
       "id": "berserker",
-      "tier": 0,
-      "value": 8
+      "tier": 1,
+      "value": 17
     },
     {
       "id": "diligent",
       "tier": 0,
-      "value": 7
+      "value": 8
     },
     {
       "id": "daily-grinder",
       "tier": 0,
-      "value": 1
+      "value": 2
     },
     {
       "id": "perfect-week",
@@ -173,7 +215,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 5
+      "value": 8
     },
     {
       "id": "boss-slayer",
@@ -188,11 +230,16 @@
     {
       "id": "collector",
       "tier": 1,
-      "value": 4
+      "value": 6
     }
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-09",
+        "cleared": 3,
+        "total": 3
+      },
       {
         "date": "2026-10-08",
         "cleared": 2,
@@ -204,10 +251,10 @@
         "total": 3
       }
     ],
-    "perfectDays": 1,
-    "run": 0,
+    "perfectDays": 2,
+    "run": 1,
     "bestRun": 1,
-    "questsDone": 5,
+    "questsDone": 8,
     "bosses": [
       "2026-10-05"
     ],
@@ -216,8 +263,10 @@
       "contribute",
       "streak",
       "commit",
-      "mp"
+      "mp",
+      "star",
+      "issue"
     ]
   },
-  "syncedAt": "2026-10-08T22:03:21.367Z"
+  "syncedAt": "2026-10-09T21:39:59.323Z"
 }
