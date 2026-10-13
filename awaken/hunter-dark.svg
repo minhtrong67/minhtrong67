@@ -53,12 +53,12 @@
 <text x="124" y="144" class="label" fill="#91887d">TITLE</text><text x="176" y="144" class="strong flicker" fill="#cda662" filter="url(#glow)">Berserker</text>
 <text x="124" y="166" class="caption" fill="#91887d">AWAKENED 2025-11-26</text>
 <g>
-
+<g class="fx-a" filter="url(#fx-blur)" opacity="0.75"><path d="M458.4 65H499V89.6L493.6 95H453V70.4Z" fill="none" stroke="#d77bff" stroke-width="3"/></g>
 <path d="M458 64H500V90L494 96H452V70Z" fill="#14120f"/>
-<path d="M458.4 65H499V89.6L493.6 95H453V70.4Z" fill="none" stroke="#8a86ff" stroke-width="2"/>
-<text x="476" y="87.2" class="rank" fill="#8a86ff" text-anchor="middle">B</text>
+<path d="M458.4 65H499V89.6L493.6 95H453V70.4Z" fill="none" stroke="#d77bff" stroke-width="2"/>
+<text x="476" y="87.2" class="rank" fill="#d77bff" text-anchor="middle">A</text>
 
-</g><text x="510" y="70" class="label" fill="#91887d">STR</text><text x="510" y="88" class="value" fill="#dfd3c3">281</text><text x="510" y="103" class="code" fill="#91887d">TOP 13%</text>
+</g><text x="510" y="70" class="label" fill="#91887d">STR</text><text x="510" y="88" class="value" fill="#dfd3c3">288</text><text x="510" y="103" class="code" fill="#91887d">TOP 13%</text>
 <g>
 <g class="fx-sss" filter="url(#fx-blur)" opacity="0.75"><path d="M582.4 65H623V89.6L617.6 95H577V70.4Z" fill="none" stroke="#ff3d5e" stroke-width="3"/></g>
 <path d="M582 64H624V90L618 96H576V70Z" fill="#14120f"/>
@@ -94,5 +94,5 @@
 <text x="724" y="151.2" class="rank" fill="#3ecf8e" text-anchor="middle">C</text>
 
 </g><text x="758" y="134" class="label" fill="#91887d">CHA</text><text x="758" y="152" class="value" fill="#dfd3c3">1</text><text x="758" y="167" class="code" fill="#91887d">TOP 33%</text>
-<text x="820" y="226" class="code" fill="#91887d" text-anchor="end">@minhtrong67 · SYNCED 2026-10-12</text>
+<text x="820" y="226" class="code" fill="#91887d" text-anchor="end">@minhtrong67 · SYNCED 2026-10-13</text>
 </svg>
