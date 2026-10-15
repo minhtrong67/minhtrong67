@@ -27,28 +27,19 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/minhtrong67/my-tauri-desktop-apps"><img src="awaken/spotlight-1-dark.svg" width="49%" alt="minhtrong67/my-tauri-desktop-apps"></a>
-<a href="https://github.com/minhtrong67/my-extension-pack"><img src="awaken/spotlight-2-dark.svg" width="49%" alt="minhtrong67/my-extension-pack"></a>
-</p>
-
-<p align="center">
-<a href="https://github.com/minhtrong67/my-terminal-tool-pack"><img src="awaken/spotlight-3-dark.svg" width="49%" alt="minhtrong67/my-terminal-tool-pack"></a>
-</p>
-
-<p align="center">
 <img src="awaken/oracle-dark.svg" width="49%" alt="minhtrong67: oracle scroll">
 <img src="awaken/daily-dark.svg" width="49%" alt="minhtrong67: daily quest">
 </p>
 
 <p align="center">
-<img src="awaken/rune-str-dark.svg" width="24%" alt="STR: rank A">
-<img src="awaken/rune-agi-dark.svg" width="24%" alt="AGI: rank SSS">
-<img src="awaken/rune-int-dark.svg" width="24%" alt="INT: rank B">
-<img src="awaken/rune-vit-dark.svg" width="24%" alt="VIT: rank SS">
+<img src="awaken/rune-str-dark.svg" width="24%" alt="STR: rank D">
+<img src="awaken/rune-agi-dark.svg" width="24%" alt="AGI: rank E">
+<img src="awaken/rune-int-dark.svg" width="24%" alt="INT: rank E">
+<img src="awaken/rune-vit-dark.svg" width="24%" alt="VIT: rank S">
 </p>
 
 <p align="center">
-<img src="awaken/rune-luk-dark.svg" width="24%" alt="LUK: rank B">
+<img src="awaken/rune-luk-dark.svg" width="24%" alt="LUK: rank E">
 <img src="awaken/rune-cha-dark.svg" width="24%" alt="CHA: rank C">
 </p>
 <!-- AWAKEN:END -->

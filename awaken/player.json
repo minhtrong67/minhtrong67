@@ -1,8 +1,8 @@
 {
   "login": "minhtrong67",
-  "level": 11,
-  "overall": "S",
-  "overallPercentile": 0.9694837098768323,
+  "level": 4,
+  "overall": "D",
+  "overallPercentile": 0.5283654675066057,
   "layout": "default",
   "class": {
     "name": "Blade Master",
@@ -13,33 +13,33 @@
   "stats": [
     {
       "code": "STR",
-      "value": 290,
-      "rank": "A",
-      "percentile": 0.8734031947780261
+      "value": 39,
+      "rank": "D",
+      "percentile": 0.4496972974037382
     },
     {
       "code": "AGI",
-      "value": 181,
-      "rank": "SSS",
-      "percentile": 0.9950401559113913
+      "value": 0,
+      "rank": "E",
+      "percentile": 0
     },
     {
       "code": "INT",
-      "value": 2,
-      "rank": "B",
-      "percentile": 0.8091006482565466
+      "value": 0,
+      "rank": "E",
+      "percentile": 0
     },
     {
       "code": "VIT",
-      "value": 16,
-      "rank": "SS",
-      "percentile": 0.9850418309215075
+      "value": 11,
+      "rank": "S",
+      "percentile": 0.9499142157630279
     },
     {
       "code": "LUK",
-      "value": 3,
-      "rank": "B",
-      "percentile": 0.8392329308802627
+      "value": 0,
+      "rank": "E",
+      "percentile": 0
     },
     {
       "code": "CHA",
@@ -49,6 +49,48 @@
     }
   ],
   "events": [
+    {
+      "kind": "overall",
+      "subject": "Overall rank",
+      "from": "S",
+      "to": "D",
+      "at": "2026-10-15T20:19:53.008Z"
+    },
+    {
+      "kind": "stat",
+      "subject": "STR",
+      "from": "A",
+      "to": "D",
+      "at": "2026-10-15T20:19:53.008Z"
+    },
+    {
+      "kind": "stat",
+      "subject": "AGI",
+      "from": "SSS",
+      "to": "E",
+      "at": "2026-10-15T20:19:53.008Z"
+    },
+    {
+      "kind": "stat",
+      "subject": "INT",
+      "from": "B",
+      "to": "E",
+      "at": "2026-10-15T20:19:53.008Z"
+    },
+    {
+      "kind": "stat",
+      "subject": "VIT",
+      "from": "SS",
+      "to": "S",
+      "at": "2026-10-15T20:19:53.008Z"
+    },
+    {
+      "kind": "stat",
+      "subject": "LUK",
+      "from": "B",
+      "to": "E",
+      "at": "2026-10-15T20:19:53.008Z"
+    },
     {
       "kind": "stat",
       "subject": "VIT",
@@ -62,75 +104,33 @@
       "from": "2",
       "to": "3",
       "at": "2026-10-14T20:40:46.985Z"
-    },
-    {
-      "kind": "stat",
-      "subject": "STR",
-      "from": "B",
-      "to": "A",
-      "at": "2026-10-13T21:50:08.957Z"
-    },
-    {
-      "kind": "stat",
-      "subject": "VIT",
-      "from": "A",
-      "to": "S",
-      "at": "2026-10-11T20:57:33.845Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "unbroken",
-      "from": "0",
-      "to": "1",
-      "at": "2026-10-11T20:57:33.845Z"
-    },
-    {
-      "kind": "level",
-      "subject": "Level",
-      "from": "4",
-      "to": "11",
-      "at": "2026-10-10T20:33:49.485Z"
-    },
-    {
-      "kind": "overall",
-      "subject": "Overall rank",
-      "from": "A",
-      "to": "S",
-      "at": "2026-10-10T20:33:49.485Z"
-    },
-    {
-      "kind": "stat",
-      "subject": "STR",
-      "from": "E",
-      "to": "B",
-      "at": "2026-10-10T20:33:49.485Z"
     }
   ],
   "achievements": [
     {
       "id": "pull-shark",
-      "tier": 3,
-      "value": 181
+      "tier": 0,
+      "value": 0
     },
     {
       "id": "quickdraw",
-      "tier": 3,
-      "value": 102
+      "tier": 0,
+      "value": 0
     },
     {
       "id": "yolo",
-      "tier": 3,
-      "value": 100
+      "tier": 0,
+      "value": 0
     },
     {
       "id": "relentless",
-      "tier": 1,
-      "value": 290
+      "tier": 0,
+      "value": 39
     },
     {
       "id": "unbroken",
-      "tier": 1,
-      "value": 12
+      "tier": 0,
+      "value": 5
     },
     {
       "id": "night-owl",
@@ -139,18 +139,18 @@
     },
     {
       "id": "early-bird",
-      "tier": 3,
-      "value": 68
+      "tier": 1,
+      "value": 18
     },
     {
       "id": "weekend-warrior",
-      "tier": 3,
-      "value": 80
+      "tier": 1,
+      "value": 20
     },
     {
       "id": "gate-opener",
       "tier": 1,
-      "value": 18
+      "value": 11
     },
     {
       "id": "raider",
@@ -159,8 +159,8 @@
     },
     {
       "id": "flawless",
-      "tier": 3,
-      "value": 100
+      "tier": 0,
+      "value": 0
     },
     {
       "id": "healer",
@@ -169,13 +169,13 @@
     },
     {
       "id": "polyglot",
-      "tier": 2,
-      "value": 6
+      "tier": 1,
+      "value": 3
     },
     {
       "id": "star-collector",
       "tier": 0,
-      "value": 3
+      "value": 0
     },
     {
       "id": "beacon",
@@ -194,13 +194,13 @@
     },
     {
       "id": "berserker",
-      "tier": 3,
-      "value": 408
+      "tier": 1,
+      "value": 10
     },
     {
       "id": "diligent",
       "tier": 0,
-      "value": 23
+      "value": 18
     },
     {
       "id": "daily-grinder",
@@ -215,12 +215,12 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 21
+      "value": 23
     },
     {
       "id": "boss-slayer",
       "tier": 1,
-      "value": 1
+      "value": 2
     },
     {
       "id": "escape-artist",
@@ -235,6 +235,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-15",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-10-14",
         "cleared": 3,
@@ -277,10 +282,11 @@
       }
     ],
     "perfectDays": 5,
-    "run": 1,
+    "run": 0,
     "bestRun": 2,
-    "questsDone": 21,
+    "questsDone": 23,
     "bosses": [
+      "2026-10-12",
       "2026-10-05"
     ],
     "escapes": 0,
@@ -297,5 +303,5 @@
       "two-repos"
     ]
   },
-  "syncedAt": "2026-10-14T20:40:46.985Z"
+  "syncedAt": "2026-10-15T20:19:53.008Z"
 }
