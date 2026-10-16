@@ -2,7 +2,7 @@
   "login": "minhtrong67",
   "level": 4,
   "overall": "D",
-  "overallPercentile": 0.5283654675066057,
+  "overallPercentile": 0.5411248099990209,
   "layout": "default",
   "class": {
     "name": "Blade Master",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 39,
+      "value": 44,
       "rank": "D",
-      "percentile": 0.4496972974037382
+      "percentile": 0.4789651210246477
     },
     {
       "code": "AGI",
@@ -31,9 +31,9 @@
     },
     {
       "code": "VIT",
-      "value": 11,
+      "value": 13,
       "rank": "S",
-      "percentile": 0.9499142157630279
+      "percentile": 0.9697425344997549
     },
     {
       "code": "LUK",
@@ -125,12 +125,12 @@
     {
       "id": "relentless",
       "tier": 0,
-      "value": 39
+      "value": 44
     },
     {
       "id": "unbroken",
       "tier": 0,
-      "value": 5
+      "value": 6
     },
     {
       "id": "night-owl",
@@ -144,13 +144,13 @@
     },
     {
       "id": "weekend-warrior",
-      "tier": 1,
-      "value": 20
+      "tier": 0,
+      "value": 17
     },
     {
       "id": "gate-opener",
       "tier": 1,
-      "value": 11
+      "value": 13
     },
     {
       "id": "raider",
@@ -200,7 +200,7 @@
     {
       "id": "diligent",
       "tier": 0,
-      "value": 18
+      "value": 19
     },
     {
       "id": "daily-grinder",
@@ -215,7 +215,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 23
+      "value": 24
     },
     {
       "id": "boss-slayer",
@@ -235,6 +235,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-16",
+        "cleared": 1,
+        "total": 3
+      },
       {
         "date": "2026-10-15",
         "cleared": 2,
@@ -284,7 +289,7 @@
     "perfectDays": 5,
     "run": 0,
     "bestRun": 2,
-    "questsDone": 23,
+    "questsDone": 24,
     "bosses": [
       "2026-10-12",
       "2026-10-05"
@@ -303,5 +308,5 @@
       "two-repos"
     ]
   },
-  "syncedAt": "2026-10-15T20:19:53.008Z"
+  "syncedAt": "2026-10-16T19:56:01.592Z"
 }
