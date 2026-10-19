@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/minhtrong67/my-terminal-tools"><img src="awaken/spotlight-3-dark.svg" width="49%" alt="minhtrong67/my-terminal-tools"></a>
+<a href="https://github.com/minhtrong67/my-cli-tools"><img src="awaken/spotlight-3-dark.svg" width="49%" alt="minhtrong67/my-cli-tools"></a>
 </p>
 
 <p align="center">

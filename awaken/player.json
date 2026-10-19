@@ -2,7 +2,7 @@
   "login": "minhtrong67",
   "level": 4,
   "overall": "B",
-  "overallPercentile": 0.8325437552887913,
+  "overallPercentile": 0.8335733180967223,
   "layout": "default",
   "class": {
     "name": "Blade Master",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 57,
+      "value": 61,
       "rank": "D",
-      "percentile": 0.5426342179968171
+      "percentile": 0.5593354069899302
     },
     {
       "code": "AGI",
@@ -125,12 +125,12 @@
     {
       "id": "relentless",
       "tier": 0,
-      "value": 57
+      "value": 61
     },
     {
       "id": "unbroken",
       "tier": 0,
-      "value": 4
+      "value": 5
     },
     {
       "id": "night-owl",
@@ -140,12 +140,12 @@
     {
       "id": "early-bird",
       "tier": 2,
-      "value": 31
+      "value": 29
     },
     {
       "id": "weekend-warrior",
       "tier": 2,
-      "value": 41
+      "value": 38
     },
     {
       "id": "gate-opener",
@@ -200,22 +200,22 @@
     {
       "id": "diligent",
       "tier": 0,
-      "value": 22
+      "value": 23
     },
     {
       "id": "daily-grinder",
       "tier": 1,
-      "value": 7
+      "value": 8
     },
     {
       "id": "perfect-week",
       "tier": 0,
-      "value": 2
+      "value": 3
     },
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 30
+      "value": 33
     },
     {
       "id": "boss-slayer",
@@ -235,6 +235,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-19",
+        "cleared": 3,
+        "total": 3
+      },
       {
         "date": "2026-10-18",
         "cleared": 3,
@@ -296,10 +301,10 @@
         "total": 3
       }
     ],
-    "perfectDays": 7,
-    "run": 2,
-    "bestRun": 2,
-    "questsDone": 30,
+    "perfectDays": 8,
+    "run": 3,
+    "bestRun": 3,
+    "questsDone": 33,
     "bosses": [
       "2026-10-12",
       "2026-10-05"
@@ -318,5 +323,5 @@
       "two-repos"
     ]
   },
-  "syncedAt": "2026-10-18T19:25:08.623Z"
+  "syncedAt": "2026-10-19T21:31:08.209Z"
 }
