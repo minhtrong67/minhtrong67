@@ -43,5 +43,5 @@
 <text x="22" y="80" class="body" fill="#91887d">A curated suite of high-performance, privacy-focused</text><text x="22" y="98" class="body" fill="#91887d">Chromium extensions styled with Material Design 3.</text>
 <circle cx="26" cy="154" r="4" fill="#e34c26" stroke="#332e29"/><text x="36" y="158" class="caption" fill="#dfd3c3">HTML</text>
 <text x="182" y="158" class="code" fill="#91887d">0 FORKS</text>
-<text x="398" y="158" class="code" fill="#91887d" text-anchor="end">PUSHED 2026-10-20</text>
+<text x="398" y="158" class="code" fill="#91887d" text-anchor="end">PUSHED 2026-10-22</text>
 </svg>
