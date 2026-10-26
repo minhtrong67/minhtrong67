@@ -2,7 +2,7 @@
   "login": "minhtrong67",
   "level": 5,
   "overall": "B",
-  "overallPercentile": 0.8558074544653195,
+  "overallPercentile": 0.856040230884043,
   "layout": "default",
   "class": {
     "name": "Blade Master",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 119,
+      "value": 120,
       "rank": "C",
-      "percentile": 0.7159270479442743
+      "percentile": 0.7177308994723399
     },
     {
       "code": "AGI",
@@ -49,6 +49,13 @@
     }
   ],
   "events": [
+    {
+      "kind": "achievement",
+      "subject": "quest-hunter",
+      "from": "0",
+      "to": "1",
+      "at": "2026-10-26T21:37:53.716Z"
+    },
     {
       "kind": "achievement",
       "subject": "relentless",
@@ -104,12 +111,12 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 119
+      "value": 120
     },
     {
       "id": "unbroken",
       "tier": 1,
-      "value": 11
+      "value": 12
     },
     {
       "id": "night-owl",
@@ -179,7 +186,7 @@
     {
       "id": "diligent",
       "tier": 0,
-      "value": 29
+      "value": 30
     },
     {
       "id": "daily-grinder",
@@ -193,8 +200,8 @@
     },
     {
       "id": "quest-hunter",
-      "tier": 0,
-      "value": 49
+      "tier": 1,
+      "value": 51
     },
     {
       "id": "boss-slayer",
@@ -214,6 +221,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-26",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-10-25",
         "cleared": 3,
@@ -311,9 +323,9 @@
       }
     ],
     "perfectDays": 12,
-    "run": 2,
+    "run": 0,
     "bestRun": 3,
-    "questsDone": 49,
+    "questsDone": 51,
     "bosses": [
       "2026-10-19",
       "2026-10-12",
@@ -333,5 +345,5 @@
       "two-repos"
     ]
   },
-  "syncedAt": "2026-10-25T19:34:59.951Z"
+  "syncedAt": "2026-10-26T21:37:53.716Z"
 }
