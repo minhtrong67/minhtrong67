@@ -1,8 +1,8 @@
 {
   "login": "minhtrong67",
-  "level": 5,
-  "overall": "B",
-  "overallPercentile": 0.8593211532772059,
+  "level": 4,
+  "overall": "C",
+  "overallPercentile": 0.7080015435104663,
   "layout": "default",
   "class": {
     "name": "Blade Master",
@@ -13,15 +13,15 @@
   "stats": [
     {
       "code": "STR",
-      "value": 135,
-      "rank": "C",
-      "percentile": 0.7425522426943191
+      "value": 51,
+      "rank": "D",
+      "percentile": 0.5152104675419179
     },
     {
       "code": "AGI",
-      "value": 1,
-      "rank": "C",
-      "percentile": 0.6451754090724036
+      "value": 0,
+      "rank": "E",
+      "percentile": 0
     },
     {
       "code": "INT",
@@ -31,15 +31,15 @@
     },
     {
       "code": "VIT",
-      "value": 12,
-      "rank": "S",
-      "percentile": 0.9612128887423135
+      "value": 5,
+      "rank": "C",
+      "percentile": 0.728198512785954
     },
     {
       "code": "LUK",
-      "value": 3,
+      "value": 4,
       "rank": "B",
-      "percentile": 0.8392329308802627
+      "percentile": 0.8569497464419764
     },
     {
       "code": "CHA",
@@ -49,6 +49,34 @@
     }
   ],
   "events": [
+    {
+      "kind": "overall",
+      "subject": "Overall rank",
+      "from": "B",
+      "to": "C",
+      "at": "2026-10-30T21:29:02.458Z"
+    },
+    {
+      "kind": "stat",
+      "subject": "STR",
+      "from": "C",
+      "to": "D",
+      "at": "2026-10-30T21:29:02.458Z"
+    },
+    {
+      "kind": "stat",
+      "subject": "AGI",
+      "from": "C",
+      "to": "E",
+      "at": "2026-10-30T21:29:02.458Z"
+    },
+    {
+      "kind": "stat",
+      "subject": "VIT",
+      "from": "S",
+      "to": "C",
+      "at": "2026-10-30T21:29:02.458Z"
+    },
     {
       "kind": "achievement",
       "subject": "quest-hunter",
@@ -75,13 +103,13 @@
     },
     {
       "id": "relentless",
-      "tier": 1,
-      "value": 135
+      "tier": 0,
+      "value": 51
     },
     {
       "id": "unbroken",
       "tier": 1,
-      "value": 13
+      "value": 11
     },
     {
       "id": "night-owl",
@@ -90,18 +118,18 @@
     },
     {
       "id": "early-bird",
-      "tier": 1,
-      "value": 15
+      "tier": 0,
+      "value": 4
     },
     {
       "id": "weekend-warrior",
       "tier": 1,
-      "value": 24
+      "value": 28
     },
     {
       "id": "gate-opener",
       "tier": 1,
-      "value": 12
+      "value": 5
     },
     {
       "id": "raider",
@@ -126,7 +154,7 @@
     {
       "id": "star-collector",
       "tier": 0,
-      "value": 3
+      "value": 4
     },
     {
       "id": "beacon",
@@ -145,13 +173,13 @@
     },
     {
       "id": "berserker",
-      "tier": 1,
-      "value": 21
+      "tier": 0,
+      "value": 6
     },
     {
       "id": "diligent",
       "tier": 0,
-      "value": 32
+      "value": 17
     },
     {
       "id": "daily-grinder",
@@ -166,7 +194,7 @@
     {
       "id": "quest-hunter",
       "tier": 1,
-      "value": 58
+      "value": 60
     },
     {
       "id": "boss-slayer",
@@ -186,6 +214,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-30",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-10-29",
         "cleared": 2,
@@ -305,7 +338,7 @@
     "perfectDays": 13,
     "run": 0,
     "bestRun": 3,
-    "questsDone": 58,
+    "questsDone": 60,
     "bosses": [
       "2026-10-26",
       "2026-10-19",
@@ -326,5 +359,5 @@
       "two-repos"
     ]
   },
-  "syncedAt": "2026-10-29T21:47:34.288Z"
+  "syncedAt": "2026-10-30T21:29:02.458Z"
 }
