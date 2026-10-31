@@ -2,7 +2,7 @@
   "login": "minhtrong67",
   "level": 4,
   "overall": "C",
-  "overallPercentile": 0.7080015435104663,
+  "overallPercentile": 0.7102303993810544,
   "layout": "default",
   "class": {
     "name": "Blade Master",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 51,
+      "value": 53,
       "rank": "D",
-      "percentile": 0.5152104675419179
+      "percentile": 0.524692563262911
     },
     {
       "code": "AGI",
@@ -49,6 +49,13 @@
     }
   ],
   "events": [
+    {
+      "kind": "achievement",
+      "subject": "weekend-warrior",
+      "from": "1",
+      "to": "2",
+      "at": "2026-10-31T20:26:45.283Z"
+    },
     {
       "kind": "overall",
       "subject": "Overall rank",
@@ -104,7 +111,7 @@
     {
       "id": "relentless",
       "tier": 0,
-      "value": 51
+      "value": 53
     },
     {
       "id": "unbroken",
@@ -119,12 +126,12 @@
     {
       "id": "early-bird",
       "tier": 0,
-      "value": 4
+      "value": 8
     },
     {
       "id": "weekend-warrior",
-      "tier": 1,
-      "value": 28
+      "tier": 2,
+      "value": 31
     },
     {
       "id": "gate-opener",
@@ -179,12 +186,12 @@
     {
       "id": "diligent",
       "tier": 0,
-      "value": 17
+      "value": 18
     },
     {
       "id": "daily-grinder",
       "tier": 1,
-      "value": 13
+      "value": 14
     },
     {
       "id": "perfect-week",
@@ -194,7 +201,7 @@
     {
       "id": "quest-hunter",
       "tier": 1,
-      "value": 60
+      "value": 63
     },
     {
       "id": "boss-slayer",
@@ -214,6 +221,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-31",
+        "cleared": 3,
+        "total": 3
+      },
       {
         "date": "2026-10-30",
         "cleared": 2,
@@ -335,10 +347,10 @@
         "total": 3
       }
     ],
-    "perfectDays": 13,
-    "run": 0,
+    "perfectDays": 14,
+    "run": 1,
     "bestRun": 3,
-    "questsDone": 60,
+    "questsDone": 63,
     "bosses": [
       "2026-10-26",
       "2026-10-19",
@@ -359,5 +371,5 @@
       "two-repos"
     ]
   },
-  "syncedAt": "2026-10-30T21:29:02.458Z"
+  "syncedAt": "2026-10-31T20:26:45.283Z"
 }
