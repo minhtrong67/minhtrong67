@@ -55,10 +55,10 @@
 <g>
 
 <path d="M458 64H500V90L494 96H452V70Z" fill="#14120f"/>
-<path d="M458.2 64.5H499.5V89.8L493.8 95.5H452.5V70.2Z" fill="none" stroke="#a8b6cc" stroke-width="1"/>
-<text x="476" y="87.2" class="rank" fill="#a8b6cc" text-anchor="middle">D</text>
+<path d="M458.4 65H499V89.6L493.6 95H453V70.4Z" fill="none" stroke="#3ecf8e" stroke-width="2"/>
+<text x="476" y="87.2" class="rank" fill="#3ecf8e" text-anchor="middle">C</text>
 
-</g><text x="510" y="70" class="label" fill="#91887d">STR</text><text x="510" y="88" class="value" fill="#dfd3c3">71</text><text x="510" y="103" class="code" fill="#91887d">TOP 40%</text>
+</g><text x="510" y="70" class="label" fill="#91887d">STR</text><text x="510" y="88" class="value" fill="#dfd3c3">73</text><text x="510" y="103" class="code" fill="#91887d">TOP 40%</text>
 <g>
 
 <path d="M582 64H624V90L618 96H576V70Z" fill="#14120f"/>
@@ -94,5 +94,5 @@
 <text x="724" y="151.2" class="rank" fill="#7b8496" text-anchor="middle">E</text>
 
 </g><text x="758" y="134" class="label" fill="#91887d">CHA</text><text x="758" y="152" class="value" fill="#dfd3c3">0</text><text x="758" y="167" class="code" fill="#91887d">TOP 100%</text>
-<text x="820" y="226" class="code" fill="#91887d" text-anchor="end">@minhtrong67 · SYNCED 2026-11-05</text>
+<text x="820" y="226" class="code" fill="#91887d" text-anchor="end">@minhtrong67 · SYNCED 2026-11-06</text>
 </svg>
