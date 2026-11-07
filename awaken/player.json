@@ -2,7 +2,7 @@
   "login": "minhtrong67",
   "level": 4,
   "overall": "C",
-  "overallPercentile": 0.6112282554914368,
+  "overallPercentile": 0.61233870756951,
   "layout": "default",
   "class": {
     "name": "Blade Master",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 73,
+      "value": 75,
       "rank": "C",
-      "percentile": 0.6031990327501872
+      "percentile": 0.6097290013325241
     },
     {
       "code": "AGI",
@@ -50,6 +50,13 @@
   ],
   "events": [
     {
+      "kind": "achievement",
+      "subject": "weekend-warrior",
+      "from": "1",
+      "to": "2",
+      "at": "2026-11-07T20:51:29.424Z"
+    },
+    {
       "kind": "stat",
       "subject": "STR",
       "from": "D",
@@ -62,13 +69,6 @@
       "from": "C",
       "to": "E",
       "at": "2026-11-01T21:10:10.907Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "weekend-warrior",
-      "from": "1",
-      "to": "2",
-      "at": "2026-10-31T20:26:45.283Z"
     }
   ],
   "achievements": [
@@ -90,7 +90,7 @@
     {
       "id": "relentless",
       "tier": 0,
-      "value": 73
+      "value": 75
     },
     {
       "id": "unbroken",
@@ -105,12 +105,12 @@
     {
       "id": "early-bird",
       "tier": 0,
-      "value": 6
+      "value": 5
     },
     {
       "id": "weekend-warrior",
-      "tier": 1,
-      "value": 29
+      "tier": 2,
+      "value": 31
     },
     {
       "id": "gate-opener",
@@ -165,7 +165,7 @@
     {
       "id": "diligent",
       "tier": 0,
-      "value": 24
+      "value": 25
     },
     {
       "id": "daily-grinder",
@@ -180,7 +180,7 @@
     {
       "id": "quest-hunter",
       "tier": 1,
-      "value": 80
+      "value": 82
     },
     {
       "id": "boss-slayer",
@@ -200,6 +200,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-07",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-11-06",
         "cleared": 3,
@@ -357,9 +362,9 @@
       }
     ],
     "perfectDays": 19,
-    "run": 4,
+    "run": 0,
     "bestRun": 4,
-    "questsDone": 80,
+    "questsDone": 82,
     "bosses": [
       "2026-11-02",
       "2026-10-26",
@@ -381,5 +386,5 @@
       "two-repos"
     ]
   },
-  "syncedAt": "2026-11-06T22:05:48.904Z"
+  "syncedAt": "2026-11-07T20:51:29.424Z"
 }
