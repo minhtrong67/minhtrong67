@@ -2,7 +2,7 @@
   "login": "minhtrong67",
   "level": 4,
   "overall": "C",
-  "overallPercentile": 0.61233870756951,
+  "overallPercentile": 0.613420959495592,
   "layout": "default",
   "class": {
     "name": "Blade Master",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 75,
+      "value": 77,
       "rank": "C",
-      "percentile": 0.6097290013325241
+      "percentile": 0.6160635055032752
     },
     {
       "code": "AGI",
@@ -62,13 +62,6 @@
       "from": "D",
       "to": "C",
       "at": "2026-11-06T22:05:48.904Z"
-    },
-    {
-      "kind": "stat",
-      "subject": "CHA",
-      "from": "C",
-      "to": "E",
-      "at": "2026-11-01T21:10:10.907Z"
     }
   ],
   "achievements": [
@@ -90,7 +83,7 @@
     {
       "id": "relentless",
       "tier": 0,
-      "value": 75
+      "value": 77
     },
     {
       "id": "unbroken",
@@ -110,7 +103,7 @@
     {
       "id": "weekend-warrior",
       "tier": 2,
-      "value": 31
+      "value": 30
     },
     {
       "id": "gate-opener",
@@ -165,7 +158,7 @@
     {
       "id": "diligent",
       "tier": 0,
-      "value": 25
+      "value": 26
     },
     {
       "id": "daily-grinder",
@@ -180,7 +173,7 @@
     {
       "id": "quest-hunter",
       "tier": 1,
-      "value": 85
+      "value": 87
     },
     {
       "id": "boss-slayer",
@@ -200,6 +193,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-09",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-11-08",
         "cleared": 3,
@@ -367,9 +365,9 @@
       }
     ],
     "perfectDays": 20,
-    "run": 1,
+    "run": 0,
     "bestRun": 4,
-    "questsDone": 85,
+    "questsDone": 87,
     "bosses": [
       "2026-11-02",
       "2026-10-26",
@@ -391,5 +389,5 @@
       "two-repos"
     ]
   },
-  "syncedAt": "2026-11-08T21:07:27.093Z"
+  "syncedAt": "2026-11-10T00:40:34.327Z"
 }
