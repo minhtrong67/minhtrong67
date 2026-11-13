@@ -2,7 +2,7 @@
   "login": "minhtrong67",
   "level": 4,
   "overall": "C",
-  "overallPercentile": 0.7248354909162041,
+  "overallPercentile": 0.7256091666369477,
   "layout": "default",
   "class": {
     "name": "Blade Master",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 84,
+      "value": 87,
       "rank": "C",
-      "percentile": 0.636818320689384
+      "percentile": 0.6450964567457096
     },
     {
       "code": "AGI",
@@ -62,13 +62,6 @@
       "from": "1",
       "to": "2",
       "at": "2026-11-07T20:51:29.424Z"
-    },
-    {
-      "kind": "stat",
-      "subject": "STR",
-      "from": "D",
-      "to": "C",
-      "at": "2026-11-06T22:05:48.904Z"
     }
   ],
   "achievements": [
@@ -90,7 +83,7 @@
     {
       "id": "relentless",
       "tier": 0,
-      "value": 84
+      "value": 87
     },
     {
       "id": "unbroken",
@@ -110,7 +103,7 @@
     {
       "id": "weekend-warrior",
       "tier": 1,
-      "value": 28
+      "value": 27
     },
     {
       "id": "gate-opener",
@@ -165,12 +158,12 @@
     {
       "id": "diligent",
       "tier": 0,
-      "value": 29
+      "value": 30
     },
     {
       "id": "daily-grinder",
       "tier": 1,
-      "value": 22
+      "value": 23
     },
     {
       "id": "perfect-week",
@@ -180,7 +173,7 @@
     {
       "id": "quest-hunter",
       "tier": 1,
-      "value": 95
+      "value": 98
     },
     {
       "id": "boss-slayer",
@@ -200,6 +193,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-13",
+        "cleared": 3,
+        "total": 3
+      },
       {
         "date": "2026-11-12",
         "cleared": 2,
@@ -386,10 +384,10 @@
         "total": 3
       }
     ],
-    "perfectDays": 22,
-    "run": 0,
+    "perfectDays": 23,
+    "run": 1,
     "bestRun": 4,
-    "questsDone": 95,
+    "questsDone": 98,
     "bosses": [
       "2026-11-09",
       "2026-11-02",
@@ -412,5 +410,5 @@
       "two-repos"
     ]
   },
-  "syncedAt": "2026-11-12T22:42:47.704Z"
+  "syncedAt": "2026-11-13T22:34:48.843Z"
 }
