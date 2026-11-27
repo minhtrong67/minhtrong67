@@ -1,0 +1,370 @@
+{
+ "key": "46bf4197",
+ "stars": 4,
+ "contributions": 135,
+ "repos": 7,
+ "followers": 1,
+ "languages": [
+  [
+   "TypeScript",
+   6716817
+  ],
+  [
+   "JavaScript",
+   5436253
+  ],
+  [
+   "HTML",
+   3150164
+  ],
+  [
+   "CSS",
+   1865299
+  ],
+  [
+   "Rust",
+   1573505
+  ],
+  [
+   "Kotlin",
+   941137
+  ],
+  [
+   "Python",
+   255998
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 10,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 14,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 1,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 21,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 1,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 6,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 5,
+    "day": 24,
+    "today": false
+   },
+   {
+    "c": 6,
+    "day": 25,
+    "today": false
+   },
+   {
+    "c": 7,
+    "day": 26,
+    "today": false
+   },
+   {
+    "c": 10,
+    "day": 27,
+    "today": true
+   },
+   null
+  ]
+ ],
+ "streak": {
+  "current": 9,
+  "longest": 11
+ },
+ "pins": [
+  {
+   "name": "my-kotlin-apps",
+   "url": "https://github.com/minhtrong67/my-kotlin-apps",
+   "text": "pure native and super lightweight android apps built with kotlin and material design 3 (expressive) design style",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": [
+    "android",
+    "android-app",
+    "android-application",
+    "android-studio",
+    "kotlin",
+    "kotlin-android",
+    "native-app",
+    "material-design-3",
+    "material-design-3-expressive"
+   ]
+  },
+  {
+   "name": "my-tauri-apps",
+   "url": "https://github.com/minhtrong67/my-tauri-apps",
+   "text": "tauri apps built with rust and react slop include webview2 manager but it still better than trash electron slop apps",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": [
+    "desktop-app",
+    "tauri-v2",
+    "rust",
+    "tailwindcss-v4",
+    "typescript",
+    "react",
+    "material-design",
+    "fluent-design",
+    "javascript",
+    "webview2"
+   ]
+  },
+  {
+   "name": "my-rust-apps",
+   "url": "https://github.com/minhtrong67/my-rust-apps",
+   "text": "rewrite microslop softwares with rust native",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": [
+    "desktop-app",
+    "egui",
+    "rust",
+    "slint",
+    "cargo",
+    "native-app"
+   ]
+  },
+  {
+   "name": "my-web-apps",
+   "url": "https://github.com/minhtrong67/my-web-apps",
+   "text": "react slop web apps with firebase support pwa apps",
+   "fork": false,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": [
+    "tailwindcss-v4",
+    "firebase",
+    "pwa-app",
+    "react",
+    "web-app",
+    "material-design"
+   ]
+  },
+  {
+   "name": "my-chrome-extensions",
+   "url": "https://github.com/minhtrong67/my-chrome-extensions",
+   "text": "lightweight chrome extensions support manifest v3",
+   "fork": false,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": [
+    "chrome-extension",
+    "html-css-javascript",
+    "manifest-v3",
+    "material-design"
+   ]
+  },
+  {
+   "name": "my-cli-tools",
+   "url": "https://github.com/minhtrong67/my-cli-tools",
+   "text": "utitlities tool with python and batch file",
+   "fork": false,
+   "stars": 1,
+   "language": "C",
+   "topics": [
+    "cli-tool",
+    "powershell",
+    "python",
+    "terminal-ui",
+    "batch-file",
+    "clang",
+    "vbscript"
+   ]
+  }
+ ],
+ "all": [
+  {
+   "name": "my-web-apps",
+   "url": "https://github.com/minhtrong67/my-web-apps",
+   "text": "react slop web apps with firebase support pwa apps",
+   "fork": false,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": [
+    "tailwindcss-v4",
+    "firebase",
+    "pwa-app",
+    "react",
+    "web-app",
+    "material-design"
+   ]
+  },
+  {
+   "name": "my-tauri-apps",
+   "url": "https://github.com/minhtrong67/my-tauri-apps",
+   "text": "tauri apps built with rust and react slop include webview2 manager but it still better than trash electron slop apps",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": [
+    "desktop-app",
+    "tauri-v2",
+    "rust",
+    "tailwindcss-v4",
+    "typescript",
+    "react",
+    "material-design",
+    "fluent-design",
+    "javascript",
+    "webview2"
+   ]
+  },
+  {
+   "name": "my-cli-tools",
+   "url": "https://github.com/minhtrong67/my-cli-tools",
+   "text": "utitlities tool with python and batch file",
+   "fork": false,
+   "stars": 1,
+   "language": "C",
+   "topics": [
+    "cli-tool",
+    "powershell",
+    "python",
+    "terminal-ui",
+    "batch-file",
+    "clang",
+    "vbscript"
+   ]
+  },
+  {
+   "name": "my-chrome-extensions",
+   "url": "https://github.com/minhtrong67/my-chrome-extensions",
+   "text": "lightweight chrome extensions support manifest v3",
+   "fork": false,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": [
+    "chrome-extension",
+    "html-css-javascript",
+    "manifest-v3",
+    "material-design"
+   ]
+  },
+  {
+   "name": "my-rust-apps",
+   "url": "https://github.com/minhtrong67/my-rust-apps",
+   "text": "rewrite microslop softwares with rust native",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": [
+    "desktop-app",
+    "egui",
+    "rust",
+    "slint",
+    "cargo",
+    "native-app"
+   ]
+  },
+  {
+   "name": "my-kotlin-apps",
+   "url": "https://github.com/minhtrong67/my-kotlin-apps",
+   "text": "pure native and super lightweight android apps built with kotlin and material design 3 (expressive) design style",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": [
+    "android",
+    "android-app",
+    "android-application",
+    "android-studio",
+    "kotlin",
+    "kotlin-android",
+    "native-app",
+    "material-design-3",
+    "material-design-3-expressive"
+   ]
+  },
+  {
+   "name": "minhtrong67",
+   "url": "https://github.com/minhtrong67/minhtrong67",
+   "text": "my custom github profile",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": [
+    "github-profile",
+    "github-profile-readme"
+   ]
+  }
+ ]
+}
