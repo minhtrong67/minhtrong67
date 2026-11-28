@@ -1,8 +1,8 @@
 {
   "login": "minhtrong67",
   "level": 5,
-  "overall": "C",
-  "overallPercentile": 0.7414964571242898,
+  "overall": "B",
+  "overallPercentile": 0.750415157484835,
   "layout": "default",
   "class": {
     "name": "Blade Master",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 117,
+      "value": 127,
       "rank": "C",
-      "percentile": 0.7122576966095351
+      "percentile": 0.7298135360103326
     },
     {
       "code": "AGI",
@@ -37,9 +37,9 @@
     },
     {
       "code": "LUK",
-      "value": 4,
-      "rank": "B",
-      "percentile": 0.8569497464419764
+      "value": 7,
+      "rank": "A",
+      "percentile": 0.8946899329661583
     },
     {
       "code": "CHA",
@@ -49,6 +49,27 @@
     }
   ],
   "events": [
+    {
+      "kind": "overall",
+      "subject": "Overall rank",
+      "from": "C",
+      "to": "B",
+      "at": "2026-11-28T00:31:31.912Z"
+    },
+    {
+      "kind": "stat",
+      "subject": "LUK",
+      "from": "B",
+      "to": "A",
+      "at": "2026-11-28T00:31:31.912Z"
+    },
+    {
+      "kind": "achievement",
+      "subject": "berserker",
+      "from": "0",
+      "to": "1",
+      "at": "2026-11-28T00:31:31.912Z"
+    },
     {
       "kind": "level",
       "subject": "Level",
@@ -104,7 +125,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 117
+      "value": 127
     },
     {
       "id": "unbroken",
@@ -124,7 +145,7 @@
     {
       "id": "weekend-warrior",
       "tier": 1,
-      "value": 24
+      "value": 22
     },
     {
       "id": "gate-opener",
@@ -154,7 +175,7 @@
     {
       "id": "star-collector",
       "tier": 0,
-      "value": 4
+      "value": 7
     },
     {
       "id": "beacon",
@@ -173,13 +194,13 @@
     },
     {
       "id": "berserker",
-      "tier": 0,
-      "value": 7
+      "tier": 1,
+      "value": 10
     },
     {
       "id": "diligent",
       "tier": 0,
-      "value": 40
+      "value": 41
     },
     {
       "id": "daily-grinder",
@@ -194,7 +215,7 @@
     {
       "id": "quest-hunter",
       "tier": 1,
-      "value": 125
+      "value": 127
     },
     {
       "id": "boss-slayer",
@@ -214,6 +235,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-27",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-11-26",
         "cleared": 2,
@@ -473,7 +499,7 @@
     "perfectDays": 27,
     "run": 0,
     "bestRun": 4,
-    "questsDone": 125,
+    "questsDone": 127,
     "bosses": [
       "2026-11-23",
       "2026-11-16",
@@ -498,5 +524,5 @@
       "two-repos"
     ]
   },
-  "syncedAt": "2026-11-27T01:00:03.002Z"
+  "syncedAt": "2026-11-28T00:31:31.912Z"
 }
