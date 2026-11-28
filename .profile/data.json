@@ -1,7 +1,7 @@
 {
- "key": "9a18e5e",
- "stars": 4,
- "contributions": 135,
+ "key": "c46cbe76",
+ "stars": 7,
+ "contributions": 136,
  "repos": 7,
  "followers": 1,
  "languages": [
@@ -138,13 +138,17 @@
    {
     "c": 10,
     "day": 27,
-    "today": true
+    "today": false
    },
-   null
+   {
+    "c": 1,
+    "day": 28,
+    "today": true
+   }
   ]
  ],
  "streak": {
-  "current": 9,
+  "current": 10,
   "longest": 11
  },
  "pins": [
@@ -153,7 +157,7 @@
    "url": "https://github.com/minhtrong67/my-kotlin-apps",
    "text": "pure native and super lightweight android apps built with kotlin and material design 3 (expressive) design style",
    "fork": false,
-   "stars": 0,
+   "stars": 1,
    "language": "Kotlin",
    "topics": [
     "android",
@@ -192,7 +196,7 @@
    "url": "https://github.com/minhtrong67/my-rust-apps",
    "text": "rewrite microslop softwares with rust native",
    "fork": false,
-   "stars": 0,
+   "stars": 1,
    "language": "Rust",
    "topics": [
     "desktop-app",
@@ -253,6 +257,41 @@
  ],
  "all": [
   {
+   "name": "my-rust-apps",
+   "url": "https://github.com/minhtrong67/my-rust-apps",
+   "text": "rewrite microslop softwares with rust native",
+   "fork": false,
+   "stars": 1,
+   "language": "Rust",
+   "topics": [
+    "desktop-app",
+    "egui",
+    "rust",
+    "slint",
+    "cargo",
+    "native-app"
+   ]
+  },
+  {
+   "name": "my-kotlin-apps",
+   "url": "https://github.com/minhtrong67/my-kotlin-apps",
+   "text": "pure native and super lightweight android apps built with kotlin and material design 3 (expressive) design style",
+   "fork": false,
+   "stars": 1,
+   "language": "Kotlin",
+   "topics": [
+    "android",
+    "android-app",
+    "android-application",
+    "android-studio",
+    "kotlin",
+    "kotlin-android",
+    "native-app",
+    "material-design-3",
+    "material-design-3-expressive"
+   ]
+  },
+  {
    "name": "my-web-apps",
    "url": "https://github.com/minhtrong67/my-web-apps",
    "text": "react slop web apps with firebase support pwa apps",
@@ -289,6 +328,18 @@
    ]
   },
   {
+   "name": "minhtrong67",
+   "url": "https://github.com/minhtrong67/minhtrong67",
+   "text": "my custom github profile",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": [
+    "github-profile",
+    "github-profile-readme"
+   ]
+  },
+  {
    "name": "my-cli-tools",
    "url": "https://github.com/minhtrong67/my-cli-tools",
    "text": "utitlities tool with python and batch file",
@@ -317,53 +368,6 @@
     "html-css-javascript",
     "manifest-v3",
     "material-design"
-   ]
-  },
-  {
-   "name": "my-rust-apps",
-   "url": "https://github.com/minhtrong67/my-rust-apps",
-   "text": "rewrite microslop softwares with rust native",
-   "fork": false,
-   "stars": 0,
-   "language": "Rust",
-   "topics": [
-    "desktop-app",
-    "egui",
-    "rust",
-    "slint",
-    "cargo",
-    "native-app"
-   ]
-  },
-  {
-   "name": "my-kotlin-apps",
-   "url": "https://github.com/minhtrong67/my-kotlin-apps",
-   "text": "pure native and super lightweight android apps built with kotlin and material design 3 (expressive) design style",
-   "fork": false,
-   "stars": 0,
-   "language": "Kotlin",
-   "topics": [
-    "android",
-    "android-app",
-    "android-application",
-    "android-studio",
-    "kotlin",
-    "kotlin-android",
-    "native-app",
-    "material-design-3",
-    "material-design-3-expressive"
-   ]
-  },
-  {
-   "name": "minhtrong67",
-   "url": "https://github.com/minhtrong67/minhtrong67",
-   "text": "my custom github profile",
-   "fork": false,
-   "stars": 0,
-   "language": null,
-   "topics": [
-    "github-profile",
-    "github-profile-readme"
    ]
   }
  ]
